@@ -1,5 +1,9 @@
-# WoltLab-Bukkit (Spigot) Project
-## Spigot-Plugin
+# WoltLab-Minecraft (Bukkit/BungeeCord) Project
+This is the project page for WSC-Minecraft-Linker.
+WSC Minecraft Linker is a bridge between the [WoltLab Suite](https://www.woltlab.com/) and Minecraft servers.
+
+The following reposetories belong to the project:
+## Bukkit/BungeeCord-Plugin
 * [This GitHub-Reposetorie](https://github.com/xXSchrandXx/WSC-Minecraft-Linker-parent "WSC-Minecraft-Linker-parent")
 * [Java-RCon](https://github.com/xXSchrandXx/Java-RCON "Java-RCon")
 * [WSC-Minecraft-Linker Public Code](https://github.com/xXSchrandXx/WSC-Minecraft-Linker-public "WSC-Minecraft-Linker-public")
