@@ -4,7 +4,7 @@ WSC Minecraft Linker is a bridge between the [WoltLab Suite](https://www.woltlab
 
 The following reposetories belong to the project:
 ## Bukkit/BungeeCord-Plugin
-* [This GitHub-Reposetorie](https://github.com/xXSchrandXx/WSC-Minecraft-Linker-parent "WSC-Minecraft-Linker-parent")
+* [This GitHub-Repositorie](https://github.com/xXSchrandXx/WSC-Minecraft-Linker-parent "WSC-Minecraft-Linker-parent")
 * [Java-RCon](https://github.com/xXSchrandXx/Java-RCON "Java-RCon")
 * [WSC-Minecraft-Linker Public Code](https://github.com/xXSchrandXx/WSC-Minecraft-Linker-public "WSC-Minecraft-Linker-public")
 * [WSC-Minecraft-Linker Private Code](https://github.com/xXSchrandXx/WSC-Minecraft-Linker-private "WSC-Minecraft-Linker-private")
